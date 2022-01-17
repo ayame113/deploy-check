@@ -1,0 +1,2 @@
+Deno.stdout;
+Deno.test;

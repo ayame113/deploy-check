@@ -1,0 +1,26 @@
+import type {} from "../../dts/deno.window.d.ts";
+FetchEvent
+FetchEvent.prototype.AT_TARGET
+FetchEvent.prototype.BUBBLING_PHASE
+FetchEvent.prototype.CAPTURING_PHASE
+FetchEvent.prototype.NONE
+FetchEvent.prototype.bubbles
+FetchEvent.prototype.cancelBubble
+FetchEvent.prototype.cancelable
+FetchEvent.prototype.composed
+FetchEvent.prototype.composedPath
+FetchEvent.prototype.constructor
+FetchEvent.prototype.currentTarget
+FetchEvent.prototype.defaultPrevented
+FetchEvent.prototype.eventPhase
+FetchEvent.prototype.initialized
+FetchEvent.prototype.preventDefault
+FetchEvent.prototype.request
+FetchEvent.prototype.respondWith
+FetchEvent.prototype.returnValue
+FetchEvent.prototype.srcElement
+FetchEvent.prototype.stopImmediatePropagation
+FetchEvent.prototype.stopPropagation
+FetchEvent.prototype.target
+FetchEvent.prototype.timeStamp
+FetchEvent.prototype.type
