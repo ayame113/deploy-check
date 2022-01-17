@@ -1,6 +1,8 @@
 # developping
 
-1. Access <url> and save the output to deploy.json
+1. Access https://deploy-type-checker.deno.dev/ and save the output to
+   deploy.json. The code for https://deploy-type-checker.deno.dev/ is in
+   create_deploy_types.ts.
 2. Execute
    `deno run --allow-read ./type_checker/checker.ts > ./type_checker/vars.ts` to
    output a list of global variables under ./ver/.
