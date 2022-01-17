@@ -1,6 +1,8 @@
 # deploy-type-checker
 
-Provides an alternative after the `deployctl check` becomes unavailable.
+A tool for type checking deno deploy. Provides an alternative after the
+`deployctl check` becomes unavailable. Please note that this tool may be out of
+date as deno deploy is currently in beta.
 
 ```ts
 // your_code.ts
